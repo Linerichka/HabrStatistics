@@ -1,0 +1,320 @@
+Параметр IsCompany к UsingAi:
+Pearson = 0.176
+Spearman = 0.244 
+
+Параметр IsCompany к TimeForReading:
+Pearson = 0.236
+Spearman = 0.383 
+
+Параметр IsCompany к Saves:
+Pearson = 0.103
+Spearman = 0.241 
+
+Параметр IsCompany к UpRankArticle:
+Pearson = 0.137
+Spearman = 0.284 
+
+Параметр IsCompany к RankArticle:
+Pearson = 0.147
+Spearman = 0.272 
+
+Параметр IsCompany к RankAuthor:
+Pearson = -0.224
+Spearman = -0.169 
+
+Параметр IsCompany к ArticleHubs:
+Pearson = 0.364
+Spearman = 0.365 
+
+Параметр IsCompany к RankArticleToViewRatio:
+Pearson = 0.309
+Spearman = 0.331 
+
+Параметр IsCompany к SavesArticleToViewRatio:
+Pearson = 0.243
+Spearman = 0.308 
+
+Параметр IsCompany к TimeInDraft:
+Pearson = 0.100
+Spearman = 0.296 
+
+Параметр UsingAi к TimeForReading:
+Pearson = 0.647
+Spearman = 0.823 
+
+Параметр UsingAi к Saves:
+Pearson = 0.330
+Spearman = 0.608 
+
+Параметр UsingAi к UpRankArticle:
+Pearson = 0.194
+Spearman = 0.326 
+
+Параметр UsingAi к RankArticle:
+Pearson = 0.182
+Spearman = 0.260 
+
+Параметр UsingAi к RankAuthor:
+Pearson = -0.206
+Spearman = -0.336 
+
+Параметр UsingAi к ArticleHubs:
+Pearson = 0.227
+Spearman = 0.266 
+
+Параметр UsingAi к RankAuthorToViewRatio:
+Pearson = -0.187
+Spearman = -0.394 
+
+Параметр UsingAi к SavesArticleToViewRatio:
+Pearson = 0.459
+Spearman = 0.600 
+
+Параметр UsingAi к TimeInDraft:
+Pearson = 0.114
+Spearman = 0.302 
+
+Параметр TimeForReading к Saves:
+Pearson = 0.310
+Spearman = 0.644 
+
+Параметр TimeForReading к UpRankArticle:
+Pearson = 0.218
+Spearman = 0.427 
+
+Параметр TimeForReading к RankArticle:
+Pearson = 0.213
+Spearman = 0.360 
+
+Параметр TimeForReading к RankAuthor:
+Pearson = -0.167
+Spearman = -0.312 
+
+Параметр TimeForReading к ArticleHubs:
+Pearson = 0.242
+Spearman = 0.346 
+
+Параметр TimeForReading к ArticleTags:
+Pearson = 0.171
+Spearman = 0.171 
+
+Параметр TimeForReading к RankArticleToViewRatio:
+Pearson = 0.114
+Spearman = 0.241 
+
+Параметр TimeForReading к RankAuthorToViewRatio:
+Pearson = -0.166
+Spearman = -0.374 
+
+Параметр TimeForReading к SavesArticleToViewRatio:
+Pearson = 0.371
+Spearman = 0.631 
+
+Параметр TimeForReading к TimeInDraft:
+Pearson = 0.128
+Spearman = 0.353 
+
+Параметр Comments к Views:
+Pearson = 0.544
+Spearman = 0.565 
+
+Параметр Comments к Saves:
+Pearson = 0.281
+Spearman = 0.304 
+
+Параметр Comments к UpRankArticle:
+Pearson = 0.539
+Spearman = 0.472 
+
+Параметр Comments к DownRankArticle:
+Pearson = 0.448
+Spearman = 0.301 
+
+Параметр Comments к RankArticle:
+Pearson = 0.453
+Spearman = 0.364 
+
+Параметр Comments к CommentsArticleToViewRatio:
+Pearson = 0.385
+Spearman = 0.667 
+
+Параметр Comments к SavesArticleToViewRatio:
+Pearson = -0.142
+Spearman = -0.166 
+
+Параметр Views к Saves:
+Pearson = 0.523
+Spearman = 0.534 
+
+Параметр Views к UpRankArticle:
+Pearson = 0.503
+Spearman = 0.534 
+
+Параметр Views к DownRankArticle:
+Pearson = 0.323
+Spearman = 0.249 
+
+Параметр Views к RankArticle:
+Pearson = 0.443
+Spearman = 0.445 
+
+Параметр Views к RankArticleToViewRatio:
+Pearson = -0.127
+Spearman = -0.362 
+
+Параметр Views к RankAuthorToViewRatio:
+Pearson = -0.120
+Spearman = -0.336 
+
+Параметр Views к CommentsArticleToViewRatio:
+Pearson = -0.044
+Spearman = -0.184 
+
+Параметр Views к SavesArticleToViewRatio:
+Pearson = -0.139
+Spearman = -0.224 
+
+Параметр Saves к UpRankArticle:
+Pearson = 0.554
+Spearman = 0.606 
+
+Параметр Saves к DownRankArticle:
+Pearson = 0.131
+Spearman = 0.185 
+
+Параметр Saves к RankArticle:
+Pearson = 0.535
+Spearman = 0.512 
+
+Параметр Saves к RankAuthor:
+Pearson = -0.087
+Spearman = -0.237 
+
+Параметр Saves к ArticleHubs:
+Pearson = 0.139
+Spearman = 0.247 
+
+Параметр Saves к RankAuthorToViewRatio:
+Pearson = -0.162
+Spearman = -0.481 
+
+Параметр Saves к SavesArticleToViewRatio:
+Pearson = 0.302
+Spearman = 0.662 
+
+Параметр Saves к TimeInDraft:
+Pearson = 0.075
+Spearman = 0.318 
+
+Параметр UpRankArticle к DownRankArticle:
+Pearson = 0.280
+Spearman = 0.210 
+
+Параметр UpRankArticle к RankArticle:
+Pearson = 0.975
+Spearman = 0.910 
+
+Параметр UpRankArticle к ArticleHubs:
+Pearson = 0.152
+Spearman = 0.280 
+
+Параметр UpRankArticle к RankArticleToViewRatio:
+Pearson = 0.236
+Spearman = 0.451 
+
+Параметр UpRankArticle к RankAuthorToViewRatio:
+Pearson = -0.109
+Spearman = -0.173 
+
+Параметр UpRankArticle к SavesArticleToViewRatio:
+Pearson = 0.035
+Spearman = 0.204 
+
+Параметр UpRankArticle к TimeInDraft:
+Pearson = 0.077
+Spearman = 0.294 
+
+Параметр DownRankArticle к RankArticleToViewRatio:
+Pearson = -0.225
+Spearman = -0.355 
+
+Параметр DownRankArticle к RankAuthorToViewRatio:
+Pearson = -0.091
+Spearman = -0.256 
+
+Параметр DownRankArticle к CommentsArticleToViewRatio:
+Pearson = 0.150
+Spearman = 0.153 
+
+Параметр RankArticle к RankAuthor:
+Pearson = 0.076
+Spearman = 0.170 
+
+Параметр RankArticle к ArticleHubs:
+Pearson = 0.161
+Spearman = 0.271 
+
+Параметр RankArticle к RankArticleToViewRatio:
+Pearson = 0.295
+Spearman = 0.604 
+
+Параметр RankArticle к SavesArticleToViewRatio:
+Pearson = 0.052
+Spearman = 0.188 
+
+Параметр RankArticle к TimeInDraft:
+Pearson = 0.080
+Spearman = 0.267 
+
+Параметр RankAuthor к ArticleTags:
+Pearson = -0.189
+Spearman = -0.112 
+
+Параметр RankAuthor к RankAuthorToViewRatio:
+Pearson = 0.565
+Spearman = 0.875 
+
+Параметр RankAuthor к SavesArticleToViewRatio:
+Pearson = -0.294
+Spearman = -0.410 
+
+Параметр ArticleHubs к ArticleTags:
+Pearson = 0.292
+Spearman = 0.278 
+
+Параметр ArticleHubs к RankArticleToViewRatio:
+Pearson = 0.191
+Spearman = 0.253 
+
+Параметр ArticleHubs к SavesArticleToViewRatio:
+Pearson = 0.187
+Spearman = 0.235 
+
+Параметр ArticleHubs к TimeInDraft:
+Pearson = 0.079
+Spearman = 0.193 
+
+Параметр RankArticleToViewRatio к RankAuthorToViewRatio:
+Pearson = 0.138
+Spearman = 0.256 
+
+Параметр RankArticleToViewRatio к CommentsArticleToViewRatio:
+Pearson = 0.030
+Spearman = 0.166 
+
+Параметр RankArticleToViewRatio к SavesArticleToViewRatio:
+Pearson = 0.285
+Spearman = 0.367 
+
+Параметр RankArticleToViewRatio к TimeInDraft:
+Pearson = 0.056
+Spearman = 0.166 
+
+Параметр RankAuthorToViewRatio к SavesArticleToViewRatio:
+Pearson = -0.151
+Spearman = -0.303 
+
+Параметр SavesArticleToViewRatio к TimeInDraft:
+Pearson = 0.080
+Spearman = 0.265 
+

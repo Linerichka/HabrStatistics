@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="ClosedXML" Version="0.105.0" />
+      <PackageReference Include="HtmlAgilityPack" Version="1.12.1" />
+      <PackageReference Include="MathNet.Filtering" Version="0.7.0" />
+      <PackageReference Include="MathNet.Filtering.Kalman" Version="0.7.0" />
+      <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+      <PackageReference Include="Microsoft.ML" Version="4.0.2" />
+      <PackageReference Include="Microsoft.ML.CpuMath" Version="4.0.2" />
+      <PackageReference Include="ParquetSharp" Version="19.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Res\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Res\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Res\**" />
+    </ItemGroup>
+
+</Project>
